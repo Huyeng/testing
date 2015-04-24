@@ -1,0 +1,6 @@
+[submodule "Google-Analytics-Dashboard-for-WP"]
+	path = Google-Analytics-Dashboard-for-WP
+	url = https://github.com/Huyeng/Google-Analytics-Dashboard-for-WP.git
+[submodule "plugin"]
+	path = plugin
+	url = https://github.com/Huyeng/Google-Analytics-Dashboard-for-WP.git
